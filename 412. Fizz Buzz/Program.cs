@@ -1,4 +1,4 @@
-﻿ublic class Solution {
+﻿public class Solution {
     public List<string> FizzBuzz(int n) {
         List<string> fizzbuzzes = new List<string>();
 
